@@ -11,7 +11,9 @@ Project Stream was simply to design and create the structure of a Music app whic
 
 ## Screenshots
 
-![]()
+![Main page](https://github.com/trobbierob/stream/blob/master/screenshots/screenshot1.png)<br />
+![Albums page](https://github.com/trobbierob/stream/blob/master/screenshots/screenshot2.png)<br />
+![Listen page](https://github.com/trobbierob/stream/blob/master/screenshots/screenshot3.png)
 
 ## Specifications
 
@@ -20,9 +22,3 @@ Project Stream was simply to design and create the structure of a Music app whic
 * Any activity that requires an external library or class not yet covered includes the name of that library or class. For instance, a payment screen might include information on how to process the payment.
 * The app contains 3 to 6 activities.
 * Each activity contains a TextView which explains the purpose of the activity.
-  
-## Sample Code
-
->        
-
-## Special Thanks
