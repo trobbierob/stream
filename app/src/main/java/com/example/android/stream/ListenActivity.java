@@ -15,6 +15,5 @@ public class ListenActivity extends AppCompatActivity {
             this would be where I would figure out how to
             animate the gif
          */
-
     }
 }

@@ -16,9 +16,7 @@ import java.util.ArrayList;
 public class TrackAdapter extends ArrayAdapter<Track> {
 
     public TrackAdapter(Activity context, ArrayList<Track> track) {
-
         super(context, 0, track);
-
     }
 
     @Override
@@ -40,5 +38,4 @@ public class TrackAdapter extends ArrayAdapter<Track> {
 
         return trackView;
     }
-
 }

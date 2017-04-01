@@ -19,16 +19,12 @@ public class TrackActivity extends AppCompatActivity {
         Random rand = new Random();
         int num = rand.nextInt(40)+10;
 
-
         for (int i = 1; i < num; i++) {
-
             tracks.add(new Track("Track " + i, "Track Name"));
-
         }
 
         TrackAdapter adapter = new TrackAdapter(this, tracks);
         ListView listView = (ListView) findViewById(R.id.activity_track);
         listView.setAdapter(adapter);
-
     }
 }

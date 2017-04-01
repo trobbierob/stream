@@ -50,7 +50,4 @@ public class ImageAdapter extends BaseAdapter {
             R.drawable.a, R.drawable.a,
             R.drawable.a, R.drawable.a,
     };
-
 }
-
-

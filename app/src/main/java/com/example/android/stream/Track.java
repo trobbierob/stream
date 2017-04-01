@@ -14,19 +14,15 @@ public class Track {
 
         mTrackNumber = trackNumber;
         mTrackName = trackName;
-
     }
 
     public String getTrackNumber() {
 
         return mTrackNumber;
-
     }
 
     public String getTrackName() {
 
         return mTrackName;
-
     }
-
 }

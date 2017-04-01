@@ -65,7 +65,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
         // Find the View that shows the Playlists category
         TextView playlists = (TextView) findViewById(R.id.playlists);
 
